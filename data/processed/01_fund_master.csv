@@ -1,0 +1,41 @@
+amfi_code,fund_house,scheme_name,category,sub_category,plan,launch_date,benchmark,expense_ratio_pct,exit_load_pct,min_sip_amount,min_lumpsum_amount,fund_manager,risk_category,sebi_category_code
+119551,SBI Mutual Fund,SBI Bluechip Fund - Regular Plan - Growth,Equity,Large Cap,Regular,2006-02-14,NIFTY 100 TRI,1.54,1.0,500,1000,Sohini Andani,Moderate,EC01
+119552,SBI Mutual Fund,SBI Bluechip Fund - Direct Plan - Growth,Equity,Large Cap,Direct,2013-01-01,NIFTY 100 TRI,0.66,1.0,500,1000,Sohini Andani,Moderate,EC01
+119598,SBI Mutual Fund,SBI Small Cap Fund - Regular Plan - Growth,Equity,Small Cap,Regular,2006-02-14,NIFTY 100 TRI,1.43,1.0,500,1000,R. Srinivasan,Very High,EC03
+119599,SBI Mutual Fund,SBI Small Cap Fund - Direct Plan - Growth,Equity,Small Cap,Direct,2013-01-01,NIFTY 100 TRI,0.55,1.0,500,1000,R. Srinivasan,Very High,EC03
+120503,ICICI Prudential MF,ICICI Pru Bluechip Fund - Regular - Growth,Equity,Large Cap,Regular,2006-02-14,NIFTY 100 TRI,1.61,1.0,500,1000,Anish Tawakley,Moderate,EC01
+120504,ICICI Prudential MF,ICICI Pru Bluechip Fund - Direct - Growth,Equity,Large Cap,Direct,2013-01-01,NIFTY 100 TRI,0.87,1.0,500,1000,Anish Tawakley,Moderate,EC01
+125497,ICICI Prudential MF,HDFC Top 100 Fund - Regular Plan - Growth,Equity,Small Cap,Regular,2006-02-14,NIFTY 100 TRI,1.73,1.0,500,1000,Chirag Setalvad,Very High,EC03
+125498,ICICI Prudential MF,HDFC Top 100 Fund - Direct Plan - Growth,Equity,Small Cap,Direct,2013-01-01,NIFTY 100 TRI,0.92,1.0,500,1000,Chirag Setalvad,Very High,EC03
+118632,HDFC Mutual Fund,Nippon India Large Cap - Regular - Growth,Equity,Large Cap,Regular,2006-02-14,BSE 250 SmallCap TRI,1.82,1.0,500,1000,Sailesh Raj Bhan,Very High,EC03
+118633,HDFC Mutual Fund,Nippon India Large Cap - Direct - Growth,Equity,Large Cap,Direct,2013-01-01,BSE 250 SmallCap TRI,0.78,1.0,500,1000,Sailesh Raj Bhan,Very High,EC03
+119092,HDFC Mutual Fund,Axis Bluechip Fund - Regular Plan - Growth,Equity,Small Cap,Regular,2006-02-14,BSE 250 SmallCap TRI,1.68,1.0,500,1000,Shreyash Devalkar,Moderate,EC01
+119093,HDFC Mutual Fund,Axis Bluechip Fund - Direct Plan - Growth,Equity,Small Cap,Direct,2013-01-01,BSE 250 SmallCap TRI,0.54,1.0,500,1000,Shreyash Devalkar,Moderate,EC01
+120841,Nippon India MF,Kotak Bluechip Fund - Regular Plan - Growth,Equity,Large Cap,Regular,2006-02-14,NIFTY 100 TRI,1.71,1.0,500,1000,Harish Krishnan,High,EC02
+120842,Nippon India MF,Kotak Bluechip Fund - Direct Plan - Growth,Equity,Large Cap,Direct,2013-01-01,NIFTY 100 TRI,0.63,1.0,500,1000,Harish Krishnan,High,EC02
+148567,Nippon India MF,Kotak Small Cap Fund - Regular Plan - Growth,Equity,Small Cap,Regular,2006-02-14,NIFTY 100 TRI,1.89,1.0,500,1000,Pankaj Tibrewal,Moderate,EC01
+148568,Nippon India MF,Kotak Small Cap Fund - Direct Plan - Growth,Equity,Small Cap,Direct,2013-01-01,NIFTY 100 TRI,0.71,1.0,500,1000,Pankaj Tibrewal,Moderate,EC01
+118636,Axis Mutual Fund,Nippon India Small Cap - Regular - Growth,Equity,Mid Cap,Regular,2006-02-14,NIFTY Midcap 150 TRI,1.95,1.0,500,1000,Umesh Haygriv,High,EC02
+118637,Axis Mutual Fund,Nippon India Small Cap - Direct - Growth,Equity,Mid Cap,Direct,2013-01-01,NIFTY Midcap 150 TRI,0.68,1.0,500,1000,Umesh Haygriv,High,EC02
+119271,Axis Mutual Fund,SBI Magnum Midcap - Regular Plan - Growth,Equity,Mid Cap,Regular,2006-02-14,NIFTY Midcap 150 TRI,1.77,1.0,500,1000,Sohini Andani,Moderate,EC01
+119272,Axis Mutual Fund,SBI Magnum Midcap - Direct Plan - Growth,Equity,Mid Cap,Direct,2013-01-01,NIFTY Midcap 150 TRI,0.59,1.0,500,1000,Sohini Andani,Moderate,EC01
+120465,Kotak Mahindra MF,ICICI Pru Midcap Fund - Regular - Growth,Equity,Mid Cap,Regular,2006-02-14,NIFTY Midcap 150 TRI,1.83,1.0,500,1000,Anish Tawakley,High,EC04
+120466,Kotak Mahindra MF,ICICI Pru Midcap Fund - Direct - Growth,Equity,Mid Cap,Direct,2013-01-01,NIFTY Midcap 150 TRI,0.74,1.0,500,1000,Anish Tawakley,High,EC04
+125354,Kotak Mahindra MF,HDFC Midcap Opportunities - Regular - Growth,Equity,Mid Cap,Regular,2006-02-14,NIFTY Midcap 150 TRI,1.65,1.0,500,1000,Chirag Setalvad,High,EC04
+125355,Kotak Mahindra MF,HDFC Midcap Opportunities - Direct - Growth,Equity,Mid Cap,Direct,2013-01-01,NIFTY Midcap 150 TRI,0.51,1.0,500,1000,Chirag Setalvad,High,EC04
+118989,Mirae Asset MF,Nippon India Multi Cap - Regular - Growth,Equity,Multi Cap,Regular,2006-02-14,NIFTY 500 TRI,1.79,1.0,500,1000,Sailesh Raj Bhan,High,EC04
+118990,Mirae Asset MF,Nippon India Multi Cap - Direct - Growth,Equity,Multi Cap,Direct,2013-01-01,NIFTY 500 TRI,0.62,1.0,500,1000,Sailesh Raj Bhan,High,EC04
+119775,Mirae Asset MF,Axis Flexi Cap Fund - Regular Plan - Growth,Equity,Multi Cap,Regular,2006-02-14,NIFTY 500 TRI,1.71,1.0,500,1000,Shreyash Devalkar,High,EC04
+119776,Mirae Asset MF,Axis Flexi Cap Fund - Direct Plan - Growth,Equity,Multi Cap,Direct,2013-01-01,NIFTY 500 TRI,0.58,1.0,500,1000,Shreyash Devalkar,High,EC04
+120189,DSP Mutual Fund,Kotak Flexi Cap Fund - Regular Plan - Growth,Equity,Flexi Cap,Regular,2006-02-14,NIFTY 500 TRI,1.88,1.0,500,1000,Harish Krishnan,Moderate,EC01
+120190,DSP Mutual Fund,Kotak Flexi Cap Fund - Direct Plan - Growth,Equity,Flexi Cap,Direct,2013-01-01,NIFTY 500 TRI,0.69,1.0,500,1000,Harish Krishnan,Moderate,EC01
+148923,DSP Mutual Fund,Mirae Asset Large Cap - Regular - Growth,Equity,Flexi Cap,Regular,2006-02-14,NIFTY 500 TRI,1.74,1.0,500,1000,Gaurav Misra,Moderate,EC01
+148924,DSP Mutual Fund,Mirae Asset Large Cap - Direct - Growth,Equity,Flexi Cap,Direct,2013-01-01,NIFTY 500 TRI,0.56,1.0,500,1000,Gaurav Misra,Moderate,EC01
+119084,Franklin Templeton,DSP Top 100 Equity - Regular - Growth,Equity,Large Cap,Regular,2006-02-14,NIFTY 100 TRI,1.81,1.0,500,1000,Aparna Karnik,Moderate,EC01
+119085,Franklin Templeton,DSP Top 100 Equity - Direct - Growth,Equity,Large Cap,Direct,2013-01-01,NIFTY 100 TRI,0.73,1.0,500,1000,Aparna Karnik,Moderate,EC01
+120678,Franklin Templeton,Franklin India Bluechip - Regular - Growth,Equity,Large Cap,Regular,2006-02-14,NIFTY 100 TRI,1.92,1.0,500,1000,Anand Radhakrishnan,Moderate,EC01
+120679,Franklin Templeton,Franklin India Bluechip - Direct - Growth,Equity,Large Cap,Direct,2013-01-01,NIFTY 100 TRI,0.84,1.0,500,1000,Anand Radhakrishnan,Moderate,EC01
+125123,UTI Mutual Fund,UTI Mastershare - Regular Plan - Growth,Equity,Large & Mid Cap,Regular,2006-02-14,NIFTY 100 TRI,1.67,1.0,500,1000,V. Srivatsa,High,EC05
+125124,UTI Mutual Fund,UTI Mastershare - Direct Plan - Growth,Equity,Large & Mid Cap,Direct,2013-01-01,NIFTY 100 TRI,0.53,1.0,500,1000,V. Srivatsa,High,EC05
+118456,UTI Mutual Fund,Mirae Asset Emerging Bluechip - Regular,Equity,Large & Mid Cap,Regular,2006-02-14,NIFTY 100 TRI,1.76,1.0,500,1000,Gaurav Misra,High,EC05
+118457,UTI Mutual Fund,Mirae Asset Emerging Bluechip - Direct,Equity,Large & Mid Cap,Direct,2013-01-01,NIFTY 100 TRI,0.61,1.0,500,1000,Gaurav Misra,High,EC05

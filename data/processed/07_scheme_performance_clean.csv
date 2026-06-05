@@ -1,0 +1,41 @@
+amfi_code,scheme_name,fund_house,category,plan,return_1yr_pct,return_3yr_pct,return_5yr_pct,benchmark_3yr_pct,alpha,beta,sharpe_ratio,sortino_ratio,std_dev_ann_pct,max_drawdown_pct,aum_crore,expense_ratio_pct,morningstar_rating,risk_grade
+119551,SBI Bluechip Fund - Regular Plan - Growth,SBI Mutual Fund,Equity,Regular,11.5,23.94,15.0,10.32,1.2,0.88,0.65,1.59,16.7,-24.55,5393,1.54,4,Moderate
+119552,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Equity,Direct,17.47,16.51,21.07,9.66,2.38,1.0,1.02,1.01,17.3,-28.96,13307,0.66,4,Moderate
+119598,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Equity,Regular,24.84,21.81,16.47,17.25,1.94,0.89,0.7,1.33,22.8,-18.64,5119,1.43,5,Very High
+119599,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Equity,Direct,22.75,24.44,21.45,14.72,2.27,0.81,1.12,1.23,24.5,-29.89,14231,0.55,3,Very High
+120503,ICICI Pru Bluechip Fund - Regular - Growth,ICICI Prudential MF,Equity,Regular,12.2,13.75,12.85,12.02,1.64,1.02,0.62,1.32,17.8,-25.47,8947,1.61,5,Moderate
+120504,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Equity,Direct,24.21,17.95,19.76,13.54,2.19,0.85,1.09,1.23,23.9,-25.19,19717,0.87,4,Moderate
+125497,HDFC Top 100 Fund - Regular Plan - Growth,ICICI Prudential MF,Equity,Regular,23.19,17.26,16.58,17.92,0.82,0.94,1.09,1.49,13.9,-13.0,9345,1.73,4,Very High
+125498,HDFC Top 100 Fund - Direct Plan - Growth,ICICI Prudential MF,Equity,Direct,18.11,13.08,16.72,11.09,0.59,0.91,0.61,1.29,13.2,-21.25,10223,0.92,4,Very High
+118632,Nippon India Large Cap - Regular - Growth,HDFC Mutual Fund,Equity,Regular,10.18,15.5,18.73,10.75,1.62,0.88,0.73,1.53,15.3,-22.47,16870,1.82,4,Very High
+118633,Nippon India Large Cap - Direct - Growth,HDFC Mutual Fund,Equity,Direct,15.11,14.4,15.27,16.05,1.99,0.95,0.97,1.47,28.0,-20.87,12201,0.78,4,Very High
+119092,Axis Bluechip Fund - Regular Plan - Growth,HDFC Mutual Fund,Equity,Regular,18.83,21.73,17.73,18.72,1.4,1.01,0.88,1.5,27.9,-25.13,19221,1.68,5,Moderate
+119093,Axis Bluechip Fund - Direct Plan - Growth,HDFC Mutual Fund,Equity,Direct,11.46,12.11,21.29,14.98,1.29,1.0,0.94,1.1,15.6,-18.2,12050,0.54,4,Moderate
+120841,Kotak Bluechip Fund - Regular Plan - Growth,Nippon India MF,Equity,Regular,12.51,14.78,20.61,9.41,2.17,0.99,0.62,1.32,18.8,-13.18,12435,1.71,3,High
+120842,Kotak Bluechip Fund - Direct Plan - Growth,Nippon India MF,Equity,Direct,15.16,21.76,15.1,12.25,0.89,1.0,0.76,1.23,25.0,-14.16,19790,0.63,3,High
+148567,Kotak Small Cap Fund - Regular Plan - Growth,Nippon India MF,Equity,Regular,12.9,18.8,21.15,9.46,2.09,0.87,1.0,1.4,26.8,-19.82,12398,1.89,4,Moderate
+148568,Kotak Small Cap Fund - Direct Plan - Growth,Nippon India MF,Equity,Direct,10.82,16.31,16.4,14.92,1.46,1.09,0.65,1.09,27.5,-21.09,17582,0.71,4,Moderate
+118636,Nippon India Small Cap - Regular - Growth,Axis Mutual Fund,Equity,Regular,18.41,21.17,21.06,15.02,2.4,0.84,0.81,1.48,20.9,-19.06,6761,1.95,5,High
+118637,Nippon India Small Cap - Direct - Growth,Axis Mutual Fund,Equity,Direct,18.7,24.48,13.17,10.47,1.2,0.86,1.02,1.56,13.4,-25.16,11152,0.68,3,High
+119271,SBI Magnum Midcap - Regular Plan - Growth,Axis Mutual Fund,Equity,Regular,10.56,23.15,19.6,19.13,2.07,1.05,0.66,1.48,19.6,-22.97,16767,1.77,5,Moderate
+119272,SBI Magnum Midcap - Direct Plan - Growth,Axis Mutual Fund,Equity,Direct,10.01,19.64,19.26,13.27,0.83,0.84,0.7,0.94,17.8,-17.68,8769,0.59,5,Moderate
+120465,ICICI Pru Midcap Fund - Regular - Growth,Kotak Mahindra MF,Equity,Regular,12.26,22.24,14.87,15.63,0.99,0.98,0.68,1.36,21.2,-19.61,8041,1.83,4,High
+120466,ICICI Pru Midcap Fund - Direct - Growth,Kotak Mahindra MF,Equity,Direct,19.52,23.46,13.25,16.74,0.73,0.9,1.01,1.29,22.9,-10.73,15020,0.74,3,High
+125354,HDFC Midcap Opportunities - Regular - Growth,Kotak Mahindra MF,Equity,Regular,10.09,17.87,16.64,19.35,1.18,1.0,0.6,1.36,26.6,-22.9,4008,1.65,5,High
+125355,HDFC Midcap Opportunities - Direct - Growth,Kotak Mahindra MF,Equity,Direct,21.27,14.93,16.02,12.0,1.19,1.0,1.15,1.31,12.2,-24.72,4240,0.51,3,High
+118989,Nippon India Multi Cap - Regular - Growth,Mirae Asset MF,Equity,Regular,26.35,24.47,15.25,16.71,1.62,0.9,0.69,1.16,26.8,-13.78,6659,1.79,5,High
+118990,Nippon India Multi Cap - Direct - Growth,Mirae Asset MF,Equity,Direct,19.86,16.09,16.66,17.37,1.59,0.85,0.76,1.3,23.1,-19.84,8685,0.62,5,High
+119775,Axis Flexi Cap Fund - Regular Plan - Growth,Mirae Asset MF,Equity,Regular,24.21,18.18,21.77,11.59,2.34,0.87,0.92,1.22,18.0,-10.75,4613,1.71,5,High
+119776,Axis Flexi Cap Fund - Direct Plan - Growth,Mirae Asset MF,Equity,Direct,22.15,22.06,13.97,19.7,1.59,1.07,1.0,1.35,17.5,-14.59,5962,0.58,4,High
+120189,Kotak Flexi Cap Fund - Regular Plan - Growth,DSP Mutual Fund,Equity,Regular,20.0,10.48,15.07,10.06,2.32,0.99,1.0,1.5,23.7,-27.52,14995,1.88,5,Moderate
+120190,Kotak Flexi Cap Fund - Direct Plan - Growth,DSP Mutual Fund,Equity,Direct,17.36,22.67,19.1,13.91,1.03,0.8,0.71,1.17,17.9,-24.81,11193,0.69,4,Moderate
+148923,Mirae Asset Large Cap - Regular - Growth,DSP Mutual Fund,Equity,Regular,14.92,18.06,14.15,19.95,2.04,0.97,1.05,1.54,27.4,-14.28,12249,1.74,4,Moderate
+148924,Mirae Asset Large Cap - Direct - Growth,DSP Mutual Fund,Equity,Direct,23.86,12.85,14.81,11.97,0.96,1.09,0.76,1.24,23.8,-23.62,13909,0.56,3,Moderate
+119084,DSP Top 100 Equity - Regular - Growth,Franklin Templeton,Equity,Regular,15.11,23.1,16.91,15.87,2.4,1.06,1.08,1.27,14.7,-13.18,16001,1.81,4,Moderate
+119085,DSP Top 100 Equity - Direct - Growth,Franklin Templeton,Equity,Direct,21.16,19.68,18.47,18.72,0.87,0.82,0.83,1.3,16.6,-16.22,11332,0.73,3,Moderate
+120678,Franklin India Bluechip - Regular - Growth,Franklin Templeton,Equity,Regular,24.23,20.77,14.14,12.28,2.11,1.03,1.09,1.13,27.5,-15.69,5057,1.92,3,Moderate
+120679,Franklin India Bluechip - Direct - Growth,Franklin Templeton,Equity,Direct,22.45,18.89,18.44,14.69,1.57,1.06,0.78,1.42,16.3,-28.59,1951,0.84,4,Moderate
+125123,UTI Mastershare - Regular Plan - Growth,UTI Mutual Fund,Equity,Regular,14.67,17.75,17.79,15.94,1.71,0.99,0.89,1.29,16.6,-26.83,9975,1.67,5,High
+125124,UTI Mastershare - Direct Plan - Growth,UTI Mutual Fund,Equity,Direct,21.57,17.47,13.06,10.24,1.53,1.06,1.07,1.52,21.0,-25.57,2743,0.53,5,High
+118456,Mirae Asset Emerging Bluechip - Regular,UTI Mutual Fund,Equity,Regular,26.92,17.13,20.59,17.06,2.16,0.86,1.01,1.41,20.8,-13.3,9820,1.76,3,High
+118457,Mirae Asset Emerging Bluechip - Direct,UTI Mutual Fund,Equity,Direct,10.19,16.82,19.54,16.98,1.44,1.05,1.01,1.28,16.4,-22.65,15163,0.61,3,High
