@@ -7,6 +7,6 @@ sqlalchemy
 requests
 scipy
 jupyter
+ipykernel
 kaleido
 nbformat
-ipykernel
